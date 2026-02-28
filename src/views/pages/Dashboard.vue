@@ -4,6 +4,7 @@
 <template>
     <div class="mt-4 bg-white p-4 rounded shadow">
         <h2>Dashboard</h2>
+        <p>Not finished yet</p>
     </div>
 
 </template>
